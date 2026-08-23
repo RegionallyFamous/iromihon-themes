@@ -1,0 +1,14 @@
+background                = "#12110f"
+background-alpha          = 0.97
+text                      = "#e8dec8"
+border                    = "rgba(d7ff00ff) rgba(ff20a6ff) 37deg"
+border-alpha              = 1.0
+border-width              = "1 4 3 1"
+scrim                     = "#12110f"
+scrim-alpha               = 0.62
+selected-background       = "#7a0f52"
+selected-background-alpha = 0.92
+selected-text             = "#fff7e5"
+selected-border           = "rgba(ff20a6ff) rgba(d7ff00ff) -37deg"
+selected-border-alpha     = 1.0
+selected-border-width     = "1 1 1 7"
