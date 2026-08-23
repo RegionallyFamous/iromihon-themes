@@ -18,13 +18,13 @@ omarchy plugin add https://github.com/RegionallyFamous/iromihon.git --enable
 omarchy restart shell
 ```
 
-Open **Iromihon** from Apps and paste:
+Open **Iromihon** from Apps. On a fresh install, this collection opens automatically:
 
 ```text
 https://github.com/RegionallyFamous/iromihon-themes.git
 ```
 
-Iromihon clones the collection once, validates every child, and exposes only the themes you deliberately install. Installed children remain ordinary native themes managed by Omarchy.
+No URL setup is required unless you previously chose **Change source**. In that case, paste the address above to return. Iromihon clones the collection once, validates every child, and exposes only the themes you deliberately install. Installed children remain ordinary native themes managed by Omarchy.
 
 ## Open one child directly
 
