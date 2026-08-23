@@ -1,0 +1,7 @@
+background       = "#fff1cf"
+background-alpha = 0.97
+text             = "#24170c"
+border           = "rgba(085ebcff) rgba(bd2b33ff) rgba(3e711cff) -20deg"
+border-alpha     = 1.0
+border-width     = "2 7 7 2"
+countdown        = "#bd2b33"
