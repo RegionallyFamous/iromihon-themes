@@ -24,3 +24,9 @@ The same run installed all twenty children at once only inside the test carrier,
 | Theme picker | Unlock picker |
 |---|---|
 | [![Omarchy theme picker with the Iromihon collection](gallery/collection-picker.png)](gallery/collection-picker.png) | [![Omarchy unlock picker with Iromihon artwork](gallery/unlock-picker.png)](gallery/unlock-picker.png) |
+
+## Unlock artwork
+
+The ten original systems each include a transparent 520×520 emblem and a 1920×1080 preview assembled with Omarchy's real Plymouth lock, entry, and bullet assets.
+
+[![All ten Iromihon unlock screens](gallery/unlock-art-contact-sheet.png)](gallery/unlock-art-contact-sheet.png)
