@@ -1,0 +1,5 @@
+background       = "#0a0d08"
+background-alpha = 0.92
+text             = "#dfd5ba"
+border           = "rgba(26b7c4ff) rgba(b978e8ff) rgba(d38932ff) 32deg"
+border-alpha     = 0.95

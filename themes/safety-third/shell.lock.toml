@@ -1,0 +1,11 @@
+background       = "#15130f"
+background-alpha = 0.88
+text             = "#f0e1bf"
+placeholder      = "#a89875"
+text-error       = "#ff3b19"
+border           = "rgba(d8ff00ff) rgba(070604ff) 90deg"
+border-active    = "rgba(d8ff00ff) rgba(ff6a00ff) rgba(00d7d0ff) 23deg"
+border-error     = "rgba(ff3b19ff) rgba(070604ff) -45deg"
+border-alpha     = 1.0
+selection        = "#d8ff00"
+selection-alpha  = 0.58
